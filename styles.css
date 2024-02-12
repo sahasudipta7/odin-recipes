@@ -1,0 +1,17 @@
+*{
+    background-color:black;
+    color:white;
+}
+
+h1{
+    color: red;
+    font-family: "papyrus",fantasy;
+}
+
+h2{
+    color:peru;
+}
+img {
+    height: auto;
+    width: 700px;
+}
